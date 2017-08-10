@@ -6,6 +6,8 @@
       <module name="a-a_test" target="1.8" />
       <module name="a_main" target="1.8" />
       <module name="a_test" target="1.8" />
+      <module name="aaa_main" target="1.8" />
+      <module name="aaa_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

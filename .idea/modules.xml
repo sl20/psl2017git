@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/b/a-a_test.iml" filepath="$PROJECT_DIR$/.idea/modules/b/a-a_test.iml" group="a" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/a_main.iml" filepath="$PROJECT_DIR$/.idea/modules/a_main.iml" group="a" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/a_test.iml" filepath="$PROJECT_DIR$/.idea/modules/a_test.iml" group="a" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aaa.iml" filepath="$PROJECT_DIR$/.idea/modules/aaa.iml" group="aaa" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aaa/aaa_main.iml" filepath="$PROJECT_DIR$/.idea/modules/aaa/aaa_main.iml" group="aaa" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aaa/aaa_test.iml" filepath="$PROJECT_DIR$/.idea/modules/aaa/aaa_test.iml" group="aaa" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/codetest-a.iml" filepath="$PROJECT_DIR$/.idea/modules/codetest-a.iml" />
     </modules>
   </component>
